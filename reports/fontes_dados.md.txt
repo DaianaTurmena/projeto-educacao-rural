@@ -1,0 +1,6 @@
+| Fonte                 | Descrição                                  | Tipo de Dados | Método de Acesso   |
+|-----------------------|--------------------------------------------|---------------|--------------------|
+| INEP (Censo Escolar)  | Infraestrutura, matrículas e IDEB          | CSV           | Download direto    |
+| IBGE (PNAD Educação)  | Renda e escolaridade                       | XLS           | API SIDRA          |
+| DATASUS               | Evasão escolar por município               | CSV           | TabNet web         |
+| IBGE Malha Municipal  | Localização escolas rurais                 | Shapefile     | Download direto    |
